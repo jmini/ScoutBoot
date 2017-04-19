@@ -11,7 +11,7 @@ How to generate a minimal Scout Boot application:
 mvn archetype:generate \   
 -DarchetypeGroupId=org.eclipse.scout.boot \
 -DarchetypeArtifactId=scout-boot-archetype-minimal \
--DarchetypeVersion=7.0.0-SNAPSHOT \
+-DarchetypeVersion=7.0.0.alpha1 \
 -DgroupId=scout.boot.example \
 -DartifactId=minimal
 

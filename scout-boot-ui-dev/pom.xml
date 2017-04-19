@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.eclipse.scout.boot</groupId>
 		<artifactId>scout-boot</artifactId>
-		<version>7.0.0-SNAPSHOT</version>
+		<version>7.0.0.alpha1</version>
 	</parent>
 
 	<artifactId>scout-boot-ui-dev</artifactId>
