@@ -53,19 +53,11 @@
 			</snapshots>
 		</repository>
 		<repository>
-		  <id>eclipse.release</id>
-		  <name>eclipse-release-repo</name>
-		  <url>https://repo.eclipse.org/content/groups/releases/</url>
+		  <id>democamp.release</id>
+		  <name>democamp-release-repo</name>
+		  <url>https://dl.bintray.com/jmini/democamp-2017/</url>
 			<snapshots>
 				<enabled>false</enabled>
-			</snapshots>
-		</repository>
-		<repository>
-		  <id>eclipse.snapshot</id>
-		  <name>eclipse-snapshot-repo</name>
-		  <url>https://repo.eclipse.org/content/groups/snapshots/</url>
-			<snapshots>
-				<enabled>true</enabled>
 			</snapshots>
 		</repository>
 	</repositories>
